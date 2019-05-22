@@ -1,4 +1,5 @@
 # sophmoreProj
+https://trello.com/b/oECrWylc/physics-calculation-cruncher
 Physics Calculator - Ok, big update to everything. Everything works, has been renamed, and cleaned up. I added a title, and built the help window. Just waiting for the guts to be added.
 
 To run it, start a new project in Netbeans (probably should name it javafxapplication10, since that's what this one is called).
